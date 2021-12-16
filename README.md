@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Merkis GitHub stats](https://github-readme-stats.vercel.app/api?username=HzeroD)](https://github.com/HzeroD/github-readme-stats)
+
+
+[![Merkis' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HzeroD&theme=blue-green)](https://github.com/HzeroD/github-readme-stats)
+
