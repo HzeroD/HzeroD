@@ -29,10 +29,6 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   
-<center>Contact Me:</cernter>
-<a href="https://www.linkedin.com/in/merkis-ruiz/">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
 
 
   <strong><center>Proficiencies:</center></strong>
@@ -44,3 +40,6 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
   </div>
+  
+  <center>Contact Me</center>
+  <a href="https://www.linkedin.com/in/merkis-ruiz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
