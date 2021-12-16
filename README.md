@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Let's code!
 
 <!--
@@ -14,19 +16,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+ 
 
 [![Merkis GitHub stats](https://github-readme-stats.vercel.app/api?username=HzeroD)](https://github.com/HzeroD/github-readme-stats)
 
 
 [![Merkis' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HzeroD&theme=blue-green)](https://github.com/HzeroD/github-readme-stats)
 
-
+  <center>A freshly minted software engineer looking to sharpen the tools in my kit. Always on the lookout for meaningful projects to engage in with which I can add a bit to this big blue sphere. </center>
+  
+  <br/>
+  <br/>
+  
 <center>Contact Me:</cernter>
-<a href="https://www.linkedin.com/in/merkis-ruiz/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/merkis-ruiz/">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+
 
   <strong><center>Proficiencies:</center></strong>
 
-<div align="center">
+
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
